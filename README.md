@@ -9,9 +9,9 @@ Gain actionable insights into customer behavior, sales seasonality, logistics, a
 ## 🚀 How to Use
 
 1. **Prepare your BigQuery environment:**  
-   - Import the dataset using the provided schema in `bigquery_setup/`.
+   - Import the dataset into the bigquery environment
 2. **Run SQL scripts:**  
-   - Execute queries in the `sql_queries/` folder for each analysis section.
+   - Execute queries in the pdf for each analysis section.
 3. **Review insights:**  
    - Use the inferences and recommendations below to guide business decisions.
 
